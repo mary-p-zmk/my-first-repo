@@ -5,10 +5,10 @@
 }
 
 :root {
-    --color-lite: #FAF4EA;
-    --color-dark: #31261A;
-    --color-brand-lite: #819B57;
-    --color-brand-dark: #465929;
+    --color-lite: #db951a;
+    --color-dark: rgb(110, 92, 73);
+    --color-brand-lite: rgb(115, 115, 223);
+    --color-brand-dark: blue;
 }
 
 body {
@@ -45,13 +45,12 @@ h1 {
     border: 2px solid black;
     display: block;
     width: 80px;
-    height: 70px;
+    height: 50px;
     text-align: center;
     background-color: #4659299c;
     color: rgb(0, 0, 0);
 
 }
-
 
 
 
