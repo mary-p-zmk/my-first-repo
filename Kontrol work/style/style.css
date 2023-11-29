@@ -1,5 +1,5 @@
-/*section1-text*/
-.section1-text
+/*section-text*/
+.section-text
 {
     background-color: rgb(25, 199, 230);
 }
@@ -8,8 +8,8 @@
     width: 200px;
     background-color: rgb(233, 62, 90);
 }
-/*section2-list */
-.section2-list
+/*section-list */
+.section-list
 {
     background-color: rgb(192, 8, 8);
 }
@@ -18,8 +18,8 @@
     width: 200px;
     background-color: rgb(240, 240, 26);
 }
-/*section3-table */
-.section3-table
+/*section-table */
+.section-table
 {
     background-color: rgb(248, 252, 5);
 }
@@ -27,8 +27,8 @@
 {
     width: 200px; 
 }
-/*section4-img */
-.section4-img
+/*section-img */
+.section-img
 {
     background-color: rgb(21, 187, 21);
 }
