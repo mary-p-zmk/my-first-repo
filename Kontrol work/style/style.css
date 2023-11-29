@@ -16,7 +16,7 @@
 .h2-list
 {
     width: 200px;
-    background-color: rgb(240, 240, 26);
+    background-color: rgb(129, 240, 26);
 }
 /*section-table */
 .section-table
@@ -26,6 +26,7 @@
 .h2-table
 {
     width: 200px; 
+    background-color: rgb(48, 48, 202);
 }
 /*section-img */
 .section-img
@@ -35,4 +36,5 @@
 .h2-img
 {
     width: 200px;
+    background-color: rgb(255, 145, 0)166, 0);
 }
